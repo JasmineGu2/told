@@ -1,0 +1,10 @@
+<script>start("/Users/jasminegu/Desktop/tldw-project/front-end/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("images","images",1,192,"192 B",1735683077,"12/31/24, 5:11:17 PM");</script>
+<script>addRow("public","public",1,256,"256 B",1735683077,"12/31/24, 5:11:17 PM");</script>
+<script>addRow("src","src",1,320,"320 B",1735683077,"12/31/24, 5:11:17 PM");</script>
+<script>addRow(".gitignore",".gitignore",0,310,"310 B",1735683077,"12/31/24, 5:11:17 PM");</script>
+<script>addRow("package-lock.json","package-lock.json",0,1179179,"1.1 MB",1735683077,"12/31/24, 5:11:17 PM");</script>
+<script>addRow("package.json","package.json",0,835,"835 B",1735683077,"12/31/24, 5:11:17 PM");</script>
+<script>addRow("README.md","README.md",0,3359,"3.3 kB",1735683077,"12/31/24, 5:11:17 PM");</script>
+<script>addRow("upload-icon.png","upload-icon.png",0,19347,"18.9 kB",1735683077,"12/31/24, 5:11:17 PM");</script>

@@ -1,0 +1,12 @@
+<script>start("/Users/jasminegu/Desktop/tldw-project/__pycache__/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("classify.cpython-310.pyc","classify.cpython-310.pyc",0,6110,"6.0 kB",1735683087,"12/31/24, 5:11:27 PM");</script>
+<script>addRow("classify.cpython-39.pyc","classify.cpython-39.pyc",0,6108,"6.0 kB",1735683087,"12/31/24, 5:11:27 PM");</script>
+<script>addRow("extract.cpython-310.pyc","extract.cpython-310.pyc",0,1689,"1.6 kB",1735683087,"12/31/24, 5:11:27 PM");</script>
+<script>addRow("extract.cpython-39.pyc","extract.cpython-39.pyc",0,1685,"1.6 kB",1735683087,"12/31/24, 5:11:27 PM");</script>
+<script>addRow("script.cpython-310.pyc","script.cpython-310.pyc",0,1395,"1.4 kB",1735683087,"12/31/24, 5:11:27 PM");</script>
+<script>addRow("script.cpython-39.pyc","script.cpython-39.pyc",0,1383,"1.4 kB",1735683087,"12/31/24, 5:11:27 PM");</script>
+<script>addRow("testcohere.cpython-310.pyc","testcohere.cpython-310.pyc",0,6746,"6.6 kB",1735683087,"12/31/24, 5:11:27 PM");</script>
+<script>addRow("testcohere.cpython-39.pyc","testcohere.cpython-39.pyc",0,6799,"6.6 kB",1735683087,"12/31/24, 5:11:27 PM");</script>
+<script>addRow("transcribe.cpython-310.pyc","transcribe.cpython-310.pyc",0,1883,"1.8 kB",1735683087,"12/31/24, 5:11:27 PM");</script>
+<script>addRow("transcribe.cpython-39.pyc","transcribe.cpython-39.pyc",0,1860,"1.8 kB",1735683087,"12/31/24, 5:11:27 PM");</script>
